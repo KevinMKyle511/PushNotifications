@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "750143012020",
+    "firebase_url": "https://fir-db-a92d0.firebaseio.com",
+    "project_id": "fir-db-a92d0",
+    "storage_bucket": "fir-db-a92d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750143012020:android:3807d0ab0fa412f2",
+        "android_client_info": {
+          "package_name": "com.mobileappscompany.training.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750143012020-0qphrbir41kli9crpeb573fdssuetkcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileappscompany.training.firebasedb",
+            "certificate_hash": "4C43D456286BAC4253DA8ACC2A3F5C7A1D75F0BE"
+          }
+        },
+        {
+          "client_id": "750143012020-df9c766s7iv834b90c2e15aj2qpccif5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfsE9lm_CCzgHQoVfNTqFgLxef9kt_ZUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750143012020-df9c766s7iv834b90c2e15aj2qpccif5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750143012020:android:bc4a7c171cb21021",
+        "android_client_info": {
+          "package_name": "com.mobileappscompany.training.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750143012020-dagkgbv9rllp3sct885retnl2ouqupp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileappscompany.training.pushnotifications",
+            "certificate_hash": "4C43D456286BAC4253DA8ACC2A3F5C7A1D75F0BE"
+          }
+        },
+        {
+          "client_id": "750143012020-df9c766s7iv834b90c2e15aj2qpccif5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfsE9lm_CCzgHQoVfNTqFgLxef9kt_ZUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750143012020-df9c766s7iv834b90c2e15aj2qpccif5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
